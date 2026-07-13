@@ -11,7 +11,6 @@ CrackShell is a Windows PowerShell application for authorized OpenStego password
 - Optional prefix or suffix salt handling
 - Closest-match tracking for hash attempts
 - Reusable wordlist selection across both workspaces
-- Dark mode and local logs
 
 ## Requirements
 
